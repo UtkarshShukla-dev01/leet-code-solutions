@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
