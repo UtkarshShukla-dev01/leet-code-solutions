@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
