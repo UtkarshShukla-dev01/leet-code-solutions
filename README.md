@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
