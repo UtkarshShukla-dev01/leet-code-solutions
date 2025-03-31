@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
