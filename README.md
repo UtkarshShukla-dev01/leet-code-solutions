@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -46,17 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
