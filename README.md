@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |
