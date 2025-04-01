@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
