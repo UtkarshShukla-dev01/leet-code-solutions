@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Sorting
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
