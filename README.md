@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
 ## Trie
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
 ## Matrix
 |  |
 | ------- |
