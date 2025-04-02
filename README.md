@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
