@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0101-symmetric-tree) |
 ## Combinatorics
 |  |
@@ -189,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
