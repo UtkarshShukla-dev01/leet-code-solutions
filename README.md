@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
