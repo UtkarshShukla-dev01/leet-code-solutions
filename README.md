@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -168,11 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
