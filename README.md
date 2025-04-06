@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 ## Binary Search
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
