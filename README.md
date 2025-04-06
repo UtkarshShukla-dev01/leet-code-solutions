@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
 ## Divide and Conquer
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 ## Tree
 |  |
