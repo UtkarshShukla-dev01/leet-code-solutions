@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0093-restore-ip-addresses) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
