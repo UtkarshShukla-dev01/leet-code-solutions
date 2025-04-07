@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0367-valid-perfect-square) |
 ## Backtracking
 |  |
 | ------- |
