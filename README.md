@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
 | ------- |
