@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0072-edit-distance) |
