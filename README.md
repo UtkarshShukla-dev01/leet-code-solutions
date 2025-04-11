@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -368,4 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
