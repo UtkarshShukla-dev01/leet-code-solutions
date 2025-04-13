@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
 ## Math
 |  |
 | ------- |
