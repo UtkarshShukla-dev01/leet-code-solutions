@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
