@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0191-number-of-1-bits) |
 ## Memoization
 |  |
