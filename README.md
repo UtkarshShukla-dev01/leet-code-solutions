@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0367-valid-perfect-square) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0197-rising-temperature) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
