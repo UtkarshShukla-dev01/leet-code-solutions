@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Math
 |  |
