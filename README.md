@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
+| [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0130-surrounded-regions) |
+| [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Divide and Conquer
 |  |
 | ------- |
