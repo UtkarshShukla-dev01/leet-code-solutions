@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1293-three-consecutive-odds](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1293-three-consecutive-odds) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
