@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0131-palindrome-partitioning) |
 | [0868-push-dominoes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0367-valid-perfect-square) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 | [0868-push-dominoes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Trie
 |  |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Database
 |  |
 | ------- |
