@@ -1,8 +1,8 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
+        ListNode* dummy = new ListNode(); // Dummy node to simplify edge cases
+        ListNode* current = dummy;
         int carry = 0;
 
         while (l1 || l2 || carry) {
@@ -17,8 +17,8 @@ public:
             }
 
             carry = sum / 10;
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
+            current->next = new ListNode(sum % 10);
+            current = current->next;
         }
 
         return dummy->next;
