@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0131-palindrome-partitioning) |
 | [0868-push-dominoes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
 | [0868-push-dominoes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
