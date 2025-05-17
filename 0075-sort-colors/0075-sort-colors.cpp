@@ -1,20 +1,20 @@
 class Solution {
-public:
-    void sortColors(vector<int>& nums) {
-        int low = 0, mid = 0, high = nums.size() - 1;
-        
-        // Dutch National Flag problem approach
-        while (mid <= high) {
-            if (nums[mid] == 0) {
-                swap(nums[low], nums[mid]);
-                low++;
-                mid++;
-            } else if (nums[mid] == 1) {
-                mid++;
-            } else {
-                swap(nums[mid], nums[high]);
-                high--;
-            }
-        }
-    }
+ public:
+  void sortColors(vector<int>& nums) {
+    int zero = -1;
+    int one = -1;
+    int two = -1;
+
+    for (const int num : nums)
+      if (num == 0) {
+        nums[++two] = 2;
+        nums[++one] = 1;
+        nums[++zero] = 0;
+      } else if (num == 1) {
+        nums[++two] = 2;
+        nums[++one] = 1;
+      } else {
+        nums[++two] = 2;
+      }
+  }
 };
