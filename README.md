@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0131-palindrome-partitioning) |
 | [0868-push-dominoes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0868-push-dominoes) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
