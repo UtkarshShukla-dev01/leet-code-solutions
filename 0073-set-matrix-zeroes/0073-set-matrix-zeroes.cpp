@@ -1,41 +1,45 @@
 class Solution {
-public:
-    void setZeroes(vector<vector<int>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
+ public:
+  void setZeroes(vector<vector<int>>& matrix) {
+    const int m = matrix.size();
+    const int n = matrix[0].size();
+    bool shouldFillFirstRow = false;
+    bool shouldFillFirstCol = false;
 
-        bool firstRow = false, firstCol = false;
+    for (int j = 0; j < n; ++j)
+      if (matrix[0][j] == 0) {
+        shouldFillFirstRow = true;
+        break;
+      }
 
-        // Step 1: Check if first row or first column has any zeroes
-        for (int i = 0; i < m; i++)
-            if (matrix[i][0] == 0) firstCol = true;
+    for (int i = 0; i < m; ++i)
+      if (matrix[i][0] == 0) {
+        shouldFillFirstCol = true;
+        break;
+      }
 
-        for (int j = 0; j < n; j++)
-            if (matrix[0][j] == 0) firstRow = true;
-
-        // Step 2: Use first row and column to mark zeroes
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
-                }
-            }
+    // Store the information in the first row and the first column.
+    for (int i = 1; i < m; ++i)
+      for (int j = 1; j < n; ++j)
+        if (matrix[i][j] == 0) {
+          matrix[i][0] = 0;
+          matrix[0][j] = 0;
         }
 
-        // Step 3: Zero out cells based on marks
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0)
-                    matrix[i][j] = 0;
-            }
-        }
+    // Fill 0s for the matrix except the first row and the first column.
+    for (int i = 1; i < m; ++i)
+      for (int j = 1; j < n; ++j)
+        if (matrix[i][0] == 0 || matrix[0][j] == 0)
+          matrix[i][j] = 0;
 
-        // Step 4: Zero out first row/column if needed
-        if (firstCol)
-            for (int i = 0; i < m; i++) matrix[i][0] = 0;
+    // Fill 0s for the first row if needed.
+    if (shouldFillFirstRow)
+      for (int j = 0; j < n; ++j)
+        matrix[0][j] = 0;
 
-        if (firstRow)
-            for (int j = 0; j < n; j++) matrix[0][j] = 0;
-    }
+    // Fill 0s for the first column if needed.
+    if (shouldFillFirstCol)
+      for (int i = 0; i < m; ++i)
+        matrix[i][0] = 0;
+  }
 };
