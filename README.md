@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0133-clone-graph) |
 | [0257-binary-tree-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0257-binary-tree-paths) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0133-clone-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Design
