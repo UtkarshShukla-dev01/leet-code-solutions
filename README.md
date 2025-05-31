@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
+| [0945-snakes-and-ladders](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1293-three-consecutive-odds) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0130-surrounded-regions) |
+| [0945-snakes-and-ladders](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0945-snakes-and-ladders) |
 | [2685-first-completely-painted-row-or-column](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0133-clone-graph) |
+| [0945-snakes-and-ladders](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
