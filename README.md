@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0367-valid-perfect-square) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0062-unique-paths) |
+| [3201-distribute-candies-among-children-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Union Find
 |  |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Prefix Sum
 |  |
 | ------- |
