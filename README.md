@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0189-rotate-array) |
 | [0945-snakes-and-ladders](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0945-snakes-and-ladders) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UtkarshShukla-dev01/leet-code-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
